@@ -18,3 +18,5 @@ MySQL
 💻 Software and tools
 
  Git  Jupyter  Visual Studio Code
+ 
+ 🌱 I’m currently learning Data Science,Web Dev
