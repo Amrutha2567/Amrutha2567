@@ -1,4 +1,6 @@
 HI👋, I AM AMRUTHA VANAPARTHI 
+
+
 🛠️ My favorite tools
 👨‍💻 Programming languages
 Python HTML CSS SQL DBMS 
