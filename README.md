@@ -10,7 +10,11 @@ Python HTML CSS SQL DBMS
 🧰 Frameworks and libraries
 
 Numpy Pandas Wordpress Git 
+
 🗄️ Databases and cloud hosting
+
 MySQL
+
 💻 Software and tools
+
  Git  Jupyter  Visual Studio Code
