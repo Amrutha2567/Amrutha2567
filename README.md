@@ -5,11 +5,11 @@ HI👋, I AM AMRUTHA VANAPARTHI
 
 👨‍💻 Programming languages
 
-Python HTML CSS SQL DBMS 
+Python ML SQL DBMS 
 
 🧰 Frameworks and libraries
 
-Numpy Pandas Wordpress Git 
+Numpy Pandas Wordpress Git Docker 
 
 🗄️ Databases and cloud hosting
 
@@ -19,4 +19,4 @@ MySQL
 
  Git  Jupyter  Visual Studio Code
  
- 🌱 I’m currently learning Data Science,Web Dev
+ 🌱 I’m currently learning Data Science
