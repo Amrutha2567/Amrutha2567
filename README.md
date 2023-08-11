@@ -5,8 +5,7 @@
 
 - 📫 How to reach me **amruthavanaparthi@gmail.com**
 
-- See my Resume to get more info [https://drive.google.com/file/d/1h1bFEKF1NMWVl7ODFD4ooEwGhuDuwbLF/view?usp=sharing](https://drive.google.com/file/d/1h1bFEKF1NMWVl7ODFD4ooEwGhuDuwbLF/view?usp=sharing)
-
+- See my Resume to get more info 
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
