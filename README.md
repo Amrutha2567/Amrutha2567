@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amrutha Vanaparthi</h1>
+
 Hey! Nice to see you.
 - I have Technical Intrests in Machine Learning , NLP
+
 - 📫 How to reach me **amruthavanaparthi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
