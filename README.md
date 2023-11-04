@@ -1,7 +1,7 @@
- Hey! Nice to see you.
+Hey! Nice to see you.
 
 <h1 align="center">Hi 👋, I'm Amrutha Vanaparthi</h1>
-- I have Technical Intrests in **Machine Learning , NLP**
+- I have Technical Intrests in Machine Learning , NLP
 
 - 📫 How to reach me **amruthavanaparthi@gmail.com**
 
