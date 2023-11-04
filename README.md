@@ -8,8 +8,11 @@ Hey! Nice to see you.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amrutha-vanaparthi-941b011a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amrutha-vanaparthi-941b011a7/" height="30" width="40" /></a>
+  
 <a href="https://stackoverflow.com/users/amrutha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amrutha" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/amruthavanapart1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amruthavanapart1" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/amrutha_2_3_0_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amrutha_2_3_0_3" height="30" width="40" /></a>
 </p>
 
