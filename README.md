@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amruthavanaparthi@gmail.com**
 
-- 📄 Know about my experiences [resumeamrutha.pdf](resumeamrutha.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1faVaOpILQ5mh3biqK_BTFGS5s8HYANX2/view?usp=sharing](https://drive.google.com/file/d/1faVaOpILQ5mh3biqK_BTFGS5s8HYANX2/view?usp=sharing)
 
 - ⚡ Fun fact **I think i am innocent**
 
